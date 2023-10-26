@@ -48,7 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           $urlFile =  "https://api.telegram.org/bot" . TOKEN . "/sendMediaGroup";
           
           // Путь загрузки файлов
-          $path = $_SERVER['DOCUMENT_ROOT'] . '/telegramform/tmp/';
+          $path = $_SERVER['DOCUMENT_ROOT'] . './telegramform/tmp/';
           
           // Загрузка файла и вывод сообщения
           $mediaData = [];

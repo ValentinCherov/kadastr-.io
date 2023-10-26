@@ -36,7 +36,7 @@ body {
     border: 1px solid #282a2e;
     border-radius: 5px;
     width: 100%;
-    background: url("/img/person-circle.svg") center left 15px no-repeat, #1c1e21;
+    background: url("./img/person-circle.svg") center left 15px no-repeat, #1c1e21;
     background-size: 30px;
     margin-bottom: 20px;
     padding: 0 15px 0 59px;
@@ -51,7 +51,7 @@ body {
     border: 1px solid #282a2e;
     border-radius: 5px;
     width: 100%;
-    background: url("/img/tel.svg") center left 15px no-repeat, #1c1e21;
+    background: url("./img/tel.svg") center left 15px no-repeat, #1c1e21;
     background-size: 30px;
     margin-bottom: 20px;
     padding: 0 15px 0 59px;
@@ -70,7 +70,7 @@ body {
     border: 1px solid #282a2e;
     border-radius: 5px;
     width: 100%;
-    background: url("/img/file.svg") center left 15px no-repeat, #1c1e21;
+    background: url("./img/file.svg") center left 15px no-repeat, #1c1e21;
     background-size: 30px;
     margin-bottom: 20px;
     padding: 0 15px 0 59px;
